@@ -1,4 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Press any key to exit111.");
-Console.ReadLine();
+class Program
+{
+    static void Main(string[] args)
+    {
+        String test = "new  string";
+        Console.WriteLine(test);
+    }
+}
